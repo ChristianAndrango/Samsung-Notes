@@ -18,7 +18,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 
 4. After the script has been executed, open the Samsung Account app on your PC from the Start Menu and log in using your Samsung account credentials.
 
-5. Finally, you can open Samsung Notes using the method used in my video, and it should work as expected.
+5. Finally, you can open Samsung Notes using the samsungnotes-betterv2.bat file in my repository, and samsung notes should work as expected.
 
 
 
