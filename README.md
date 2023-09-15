@@ -1,6 +1,7 @@
 # Mask Galaxy Book laptop 
 # edited  by manas c
-This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop, this is usually used to bypass Samsung's restriction on some applications such as Samsung Notes by modifying the registry. _Third-party antivirus applications such as Kaspersky and Bitfinder detecting the .bat file as a threat, it is a false positive! Just whitelist it or modify the registry yourself if that is the case._
+This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop, this is usually used to bypass Samsung's restriction on some applications such as Samsung Notes by modifying the registry. _Third-party antivirus applications such as Kaspersky and Bitdefender detecting the .bat file as a threat, it is a false positive! Just whitelist it or modify the registry yourself if that is the case._
+![Image showing the samsung notes galaxy books error ](https://preview.redd.it/nzxqcqw9dyib1.png?width=778&format=png&auto=webp&s=493855bde83d0712952a36d6a5a8ab8a5f34693c)
 
 ### 4 versions
 - Galaxybook_mask.bat
@@ -9,6 +10,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 - (Recommended)samsungnotes-betterv2.bat:This version stores the previous  registery key that it changes  and then reverts the key back  once the  app has  been launched
 
 # "Connecting to a service" error solution
+
 - If you're dealing with that annoying "connecting to a service" pop-up or Samsung Notes freezing while trying to sync, here's what you can do:
 
 1. Firstly, you need to install the Winget package manager. You can download it from this [microsoft store link](https://www.microsoft.com/store/productid/9NBLGGH4NNS1?ocid=pdpshare).
