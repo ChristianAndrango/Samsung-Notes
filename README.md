@@ -8,7 +8,8 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 - samsungnotes-better.bat: Non startup version that launches samsung   notes, can be used as  a makeshift shortcut
 - (Recommended)samsungnotes-betterv2.bat:This version stores the previous  registery key that it changes  and then reverts the key back  once the  app has  been launched
 
-# If you're dealing with that annoying "connecting to a service" pop-up or Samsung Notes freezing while trying to sync, here's what you can do:
+# "Connecting to a service" error solution
+- If you're dealing with that annoying "connecting to a service" pop-up or Samsung Notes freezing while trying to sync, here's what you can do:
 
 1. Firstly, you need to install the Winget package manager. You can download it from this [microsoft store link](https://www.microsoft.com/store/productid/9NBLGGH4NNS1?ocid=pdpshare).
 
