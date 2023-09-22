@@ -9,6 +9,17 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 - samsungnotes-better.bat: Non startup version that launches samsung   notes, can be used as  a makeshift shortcut
 - (Recommended)samsungnotes-betterv2.bat:This version stores the previous  registery key that it changes  and then reverts the key back  once the  app has  been launched
 
+### To undo the changes made  from running Galaxy book mask(startup bat), locate & delete, then restart pc, the registry values will revert back to factory values
+
+`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\GalaxyBookMask.bat` 
+
+
+### To check if changes were successfully made, run "regedit" and locate
+`HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS`
+
+#### Look for: -
+`SystemManufacturer: Samsung`
+`SystemProductName: NP960XFG-KC4UK`
 # "Connecting to a service" error solution
 
 - If you're dealing with that annoying "connecting to a service" pop-up or Samsung Notes freezing while trying to sync, here's what you can do:
